@@ -1,16 +1,15 @@
 # Shawn Kittel
 
 ## Photos
-1. ![alt text](https://raw.githubusercontent.com/noctemdrgn/noctemdrgn.github.io/main/20200920_151837.jpg "Meditating Kids")
-2. ![alt text](https://github.com/noctemdrgn/noctemdrgn.github.io/blob/main/20201106_134858.jpg "Bouldering Rad")
-3. ![alt text](https://raw.githubusercontent.com/noctemdrgn/noctemdrgn.github.io/main/20201124_065406.jpg "Big Gus Dog")
+1. ![alt text](https://raw.githubusercontent.com/noctemdrgn/noctemdrgn.github.io/main/20201124_065406.jpg "Big Gus Dog")
+2. ![alt text](https://raw.githubusercontent.com/noctemdrgn/noctemdrgn.github.io/main/20200920_151837.jpg "Meditating Kids")
+
 
 ### Hobbies
 * Permaculture
+* Running
 * Crypto
 * *Philisophical* Reading
-* Perpetural Internal Growth
-* * Endeavoring to stay in flow.
 
 #### Past Major Ventures
 * US Air Force (SWATS Tech)
