@@ -28,7 +28,7 @@
 2. [I Want Free Crypto] (https://iwantfreecrypto.com)
 3. [Bitcoin Lightning Games] (https://bitcoinlightning.games)
 
-####### One Of my favorite stations to have in background
+###### One Of my favorite stations to have in background
 
 <a href="https://codeardio.freecodecamp.org">Code Radio</a>
   
