@@ -19,7 +19,7 @@
 
 ##### Reasonings For Course Enrollment
 1. Control over my website creations
-2. Ability to mainatain a service in community
+2. Ability to provide a service in community
 3. Create more purpose and security through skillset.
 
 ###### Websites evident of my need for this course
