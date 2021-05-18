@@ -23,7 +23,7 @@
 3. Create more purpose and security through skillset.
 
 ###### Websites evident of my need for this course
-1. [Hippie Taoist] (https://hippietaoist.com)
+1. [The Hippie Taoist] (https://thehippietaoist.com)
 2. [I Want Free Crypto] (https://iwantfreecrypto.com)
 3. [Bitcoin Lightning Games] (https://bitcoinlightning.games)
 
